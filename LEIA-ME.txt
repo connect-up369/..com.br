@@ -1,0 +1,7 @@
+CONNECT-UP — SITE COMPLETO
+
+Extraia todo o ZIP, mantendo as pastas juntas.
+Para publicar, envie todo o conteúdo para a pasta pública da hospedagem (public_html ou equivalente). O index.html deve ficar na raiz.
+As pastas css, js, media e portfolio contêm as animações, fontes, imagens, vídeos e os nove protótipos.
+O HTML avulso depende desses arquivos; ele sozinho não contém o site completo.
+Para testar no computador, use um servidor local, como o Live Server do VS Code.
